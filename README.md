@@ -16,7 +16,7 @@ Tkinter (caso tenha interface gráfica)
 
 📂 Como Executar
 Clone este repositório:
-git clone 
+git clone https://github.com/CaioSouzx00/Chat-Conversas.git
 
 Acesse a pasta do projeto:
 cd chat-python
